@@ -22,7 +22,7 @@ const SKILLS_DATA = {
 };
 
 const ADDITIONAL_STATS = [
-    { number: "20+", label: "Projects Completed", icon: "bi-check-circle-fill" },
+    { number: "10+", label: "Projects Completed", icon: "bi-check-circle-fill" },
     { number: "5+", label: "Team Collaborations", icon: "bi-people-fill" },
     { number: "1", label: "Years Experience", icon: "bi-award-fill" },
     { number: "9+", label: "Tech Mastered", icon: "bi-cpu-fill" }

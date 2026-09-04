@@ -11,7 +11,7 @@ const ABOUT_IMAGES = [
 ];
 
 const STATS_DATA = [
-    { number: "20+", label: "Projects Completed", icon: "bi-check-circle-fill" },
+    { number: "10+", label: "Projects Completed", icon: "bi-check-circle-fill" },
     { number: "5+", label: "Team Collaborations", icon: "bi-people-fill" }
 ];
 
